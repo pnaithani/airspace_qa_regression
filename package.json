@@ -1,0 +1,16 @@
+{
+  "name": "airspace_project",
+  "version": "1.0.0",
+  "description": "This is project intended for airspace assignment  for login page regression suite",
+  "main": "index.js",
+  "scripts": {
+    "cypress_open": "npx cypress open",
+    "test_chrome": "cypress run --browser chrome",
+    "test_firefox": "cypress run --browser firefox"
+  },
+  "author": "Pratyush Naithani",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
