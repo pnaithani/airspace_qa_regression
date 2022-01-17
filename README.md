@@ -1,8 +1,10 @@
 # airspace_qa_regression
 Overview
+
 This is automated regression suite for the login component of the app using Cypress (https://www.cypress.io/)
 
 Pre-Requisites
+
 Install browsers: Chrome, Firefox
 
 Install npm
